@@ -1,0 +1,10 @@
+.App {
+  margin: 30px auto;
+  width: 800px;
+}
+
+.element label {
+  display: inline-block;
+  width: 30%;
+  max-width: 155px;
+}
