@@ -7,6 +7,7 @@ let UserInput = props => {
       <input
         type="text"
         id="userInput"
+        value={props.userName}
         onChange={event => {
           props.changeHandler(event);
         }}
