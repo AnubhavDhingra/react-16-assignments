@@ -1,8 +1,8 @@
-# React 16 (The Complete Guide incl. React Router 4 & Redux) - Assignments
+## React 16 (The Complete Guide incl. React Router 4 & Redux) - Assignments
 
 My assignment-solutions for the [Udemy-course](https://www.udemy.com/react-the-complete-guide-incl-redux/) by [Maximilian Schwarzmüller](https://www.academind.com).
 
-## Assignment 01
+### Assignment 01
 
 - Create TWO new components: UserInput and UserOutput.
 
@@ -24,7 +24,7 @@ My assignment-solutions for the [Udemy-course](https://www.udemy.com/react-the-c
 
 - Add styling of your choice to your components/ elements in the components - both with inline styles and stylesheets.
 
-## Assignment 02
+### Assignment 02
 
 1. Create an input field (in App component) with a change listener which outputs the length of the entered text below it (for example in a paragraph).
 
