@@ -1,6 +1,6 @@
 # React 16 (The Complete Guide incl. React Router 4 & Redux) - Assignments
 
-Assignments for the [Udemy-course](https://www.udemy.com/react-the-complete-guide-incl-redux/) by [Maximilian Schwarzmüller](https://www.academind.com)
+Assignments for the [Udemy-course](https://www.udemy.com/react-the-complete-guide-incl-redux/) by [Maximilian Schwarzmüller](https://www.academind.com).
 
 ## Assignment 01
 
