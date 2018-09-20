@@ -37,3 +37,7 @@ Assignments for the [Udemy-course](https://www.udemy.com/react-the-complete-guid
 5. Render a list of CharComponents where each CharComponent receives ad different leter of the entered text (in the initial field) as a prop.
 
 6. When you click a CharComponent, it should be removed from the entered text.
+
+## Burger Builder App
+
+Example-application done in the course.
