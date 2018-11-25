@@ -55,3 +55,12 @@ My assignment-solutions for the [Udemy-course](https://www.udemy.com/react-the-c
 7. Add a 404 error page and render it for any unknown routes
 
 8. Redirect requests to /all-courses to /courses (=> Your "Courses" page)
+
+### Assignment 04
+
+Enhance the provided project with additional functionality.
+
+Add the cases DECREMENT, ADD and SUBTRACT to the Reducer-function.
+Connect these three Action-types to the component-file "Connect.js" by adding props to "mapDispatchToProps".
+
+
