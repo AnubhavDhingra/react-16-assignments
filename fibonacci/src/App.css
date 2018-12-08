@@ -1,0 +1,24 @@
+* {
+  background-color: #dfdfdf;
+}
+
+.wrap {
+  margin: 30px auto;
+  width: 100%;
+  max-width: 800px;
+}
+
+.current-number {
+  margin: 20px 30px 20px 10px;
+  padding: 10px;
+  background-color: #efefef;
+  border-radius: 12px;
+}
+
+.navi {
+  margin: 25px 5px;
+}
+
+.display {
+  font-size: 1.25rem;
+}
