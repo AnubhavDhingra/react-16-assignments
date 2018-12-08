@@ -63,4 +63,10 @@ Enhance the provided project with additional functionality.
 Add the cases DECREMENT, ADD and SUBTRACT to the Reducer-function.
 Connect these three Action-types to the component-file "Connect.js" by adding props to "mapDispatchToProps".
 
+### Assignment 05
 
+To do ...
+
+### Fibonacci Counter
+
+Create a React-Redux app which counts up the [Fibonacci-numbers](https://en.wikipedia.org/wiki/Fibonacci_number).
