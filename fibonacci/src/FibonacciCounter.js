@@ -6,11 +6,11 @@ class FibonacciCounter extends Component {
       return (
           <div>
               <div className="display">
-                <span>{this.props.index}. Fibonacci Number: </span>
+                <span>{("00" + this.props.index).slice(-3)}. Fibonacci Number: </span>
                 <span className="current-number">{this.props.current}</span>
               </div>
               <div className="navi">
-                <button onClick={this.props.onNext}>Get Next Fibonacci Number</button>
+                <a href="#" className="ghost-button" onClick={this.props.onNext}>Increment</a>
               </div>
           </div>
       );

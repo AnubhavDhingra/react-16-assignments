@@ -1,5 +1,6 @@
 * {
-  background-color: #dfdfdf;
+  background-color: #efefef;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
 }
 
 .wrap {
@@ -11,8 +12,11 @@
 .current-number {
   margin: 20px 30px 20px 10px;
   padding: 10px;
-  background-color: #efefef;
+  background-color: #dedede;
   border-radius: 12px;
+  display: inline-block;
+  min-width: 16rem;
+  text-align: center;
 }
 
 .navi {
@@ -21,4 +25,23 @@
 
 .display {
   font-size: 1.25rem;
+}
+
+.ghost-button {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: 2px solid;
+  border-radius: 8px;
+  background-color: #010101;
+  color: white;
+  letter-spacing: 2px;
+}
+
+.ghost-button:hover {
+  cursor: pointer;
+  opacity: 0.5; 
+}
+
+.ghost-button:active {
+  opacity: 0.3; 
 }
