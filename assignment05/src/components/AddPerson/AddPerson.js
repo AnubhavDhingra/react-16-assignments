@@ -1,11 +1,28 @@
-import React from 'react';
+import React, { Component } from 'react';
+import  { connect } from "react-redux";
 
 import './AddPerson.css';
 
-const addPerson = (props) => (
-    <div className="AddPerson">
-        <button onClick={props.personAdded}>Add Person</button>
-    </div>
-);
+class Person extends Component {
+    render () {
+        return (
+            <div className="AddPerson">
+                <button onClick={() => {
+                    this.props.onAddPerson();
+                }}>Add Person</button>
+            </div>
+        );
+    }
+}
 
-export default addPerson;
+const mapDispatchToProps = dispatch => {
+    return {
+        onAddPerson: () => {
+            dispatch({
+                type: "ADD_PERSON"
+            });
+        }
+    }
+}
+
+export default connect(null, mapDispatchToProps)(Person);

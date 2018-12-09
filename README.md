@@ -65,7 +65,9 @@ Connect these three Action-types to the component-file "Connect.js" by adding pr
 
 ### Assignment 05
 
-To do ...
+Turn the provided React-app into one which does NOT use local state (in components) but instead uses Redux.
+
+## Self-invented exercises. Not part of the actual course.
 
 ### Fibonacci Counter
 
