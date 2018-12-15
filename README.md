@@ -72,3 +72,7 @@ Turn the provided React-app into one which does NOT use local state (in componen
 ### Fibonacci Counter
 
 Create a React-Redux app which counts up the [Fibonacci-numbers](https://en.wikipedia.org/wiki/Fibonacci_number).
+
+### ToDo-App
+
+React-Redux App for to keep and add ToDos to a list.
