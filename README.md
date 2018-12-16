@@ -75,4 +75,4 @@ Create a React-Redux app which counts up the [Fibonacci-numbers](https://en.wiki
 
 ### ToDo-App
 
-React-Redux App for to keep and add ToDos to a list.
+React-Redux App for to add ToDos-entries to a list.
